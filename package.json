@@ -1,0 +1,34 @@
+{
+  "name": "projectWeek1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.15.0",
+    "body-parser": "~1.15.1",
+    "bootstrap": "^3.3.7",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "express-partial-react-views": "^1.0.0",
+    "express-react-views": "^0.10.2",
+    "jade": "~1.11.0",
+    "mongoose": "^4.6.3",
+    "morgan": "~1.7.0",
+    "passport": "^0.3.2",
+    "passport-local-mongoose": "^4.0.0",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
